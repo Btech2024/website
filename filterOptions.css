@@ -1,0 +1,509 @@
+.filter-options .garden-nursery {
+  margin-right: 17.5px;
+  width: 445.5px;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 0.9;
+  color: var(--yellow, #F9C000);
+}
+.garden-nursery {
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+  color: var(--green, #1C9A44);
+}
+.filter-options .shop-3 {
+  margin-right: 8.2px;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.filter-options .vector {
+  width: 8px;
+  height: 4px;
+}
+.filter-options .icon-outlined-directions-chevron-down {
+  margin: 8px 0 7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 8px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.filter-options .shop-2 {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.filter-options .new-arrivals {
+  margin-top: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.filter-options .offers {
+  margin-bottom: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.filter-options .combo-zone {
+  margin-bottom: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.filter-options .menu {
+  margin: 7.5px 0 8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 378.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.filter-options .icon-outlined-action-main-search {
+  margin-right: 16px;
+  width: 24px;
+  height: 24px;
+}
+.filter-options .icon-outlined-other-person-user {
+  margin-right: 16px;
+  width: 24px;
+  height: 24px;
+}
+.filter-options .icon-outlined-other-shop-shopping-cart {
+  width: 24px;
+  height: 24px;
+}
+.filter-options .icon-menu {
+  margin: 5.5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 104px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.filter-options .nav {
+  background: var(--white, #FFFFFF);
+  margin: 0 14px 61px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 21.5px 32px;
+  width: 1410px;
+  box-sizing: border-box;
+}
+.filter-options .what-kind-of-plants-your-looking-for {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 42px;
+  color: #000000;
+}
+.filter-options .frame-51 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.filter-options .choose-your-plant-type-to-give-abest-result {
+  margin-right: 21.3px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.filter-options .frame-1171275431 {
+  margin: 0 0 37px 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.filter-options .mask-group {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.filter-options .rectangle-15 {
+  mix-blend-mode: multiply;
+  background: #096A28;
+  position: absolute;
+  top: 87.6px;
+  right: 0px;
+  width: 224.6px;
+  height: 136.3px;
+}
+.filter-options .resin-pets {
+  position: relative;
+  margin: 0 0 8.2px 12.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: -1.3px;
+  color: var(--white, #FFFFFF);
+}
+.filter-options .select {
+  margin-right: 4.6px;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.3px;
+  color: var(--white, #FFFFFF);
+}
+.filter-options .vector-8 {
+  width: 3px;
+  height: 6px;
+}
+.filter-options .icon-outlined-directions-chevron-right {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 3px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.filter-options .group-10 {
+  position: relative;
+  margin: 1px 0 0.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6px 6.7px 6px 8.2px;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.filter-options .button {
+  border-radius: 8px;
+  background: #48CC4D;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 12px 7.9px 12.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.filter-options .card-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 374.4px;
+}
+.filter-options .mask-group-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 374.4px;
+  height: 311.5px;
+}
+.filter-options .rectangle-151 {
+  mix-blend-mode: multiply;
+  background: #096A28;
+  position: absolute;
+  top: 92px;
+  right: 0px;
+  width: 224.6px;
+  height: 136.3px;
+}
+.filter-options .funky-garden {
+  position: relative;
+  margin: 0 0 7.2px 0.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: -1.3px;
+  color: var(--white, #FFFFFF);
+}
+.filter-options .select-1 {
+  margin-right: 4.6px;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.3px;
+  color: var(--white, #FFFFFF);
+}
+.filter-options .vector-9 {
+  width: 3px;
+  height: 6px;
+}
+.filter-options .icon-outlined-directions-chevron-right-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 3px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.filter-options .group-101 {
+  position: relative;
+  margin: 1px 0 0.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6px 6.7px 6px 8.2px;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.filter-options .button-1 {
+  border-radius: 8px;
+  background: #48CC4D;
+  position: relative;
+  margin-right: 12px;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 12px 7.9px 12.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.filter-options .card-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 375.6px;
+}
+.filter-options .mask-group-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.filter-options .rectangle-152 {
+  mix-blend-mode: multiply;
+  background: #096A28;
+  position: absolute;
+  top: 87.6px;
+  right: 0px;
+  width: 224.6px;
+  height: 136.3px;
+}
+.filter-options .best-sellers {
+  position: relative;
+  margin-bottom: 5.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: -1.3px;
+  color: var(--white, #FFFFFF);
+}
+.filter-options .select-2 {
+  margin-right: 4.6px;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.3px;
+  color: var(--white, #FFFFFF);
+}
+.filter-options .vector-10 {
+  width: 3px;
+  height: 6px;
+}
+.filter-options .icon-outlined-directions-chevron-right-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 3px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.filter-options .group-102 {
+  position: relative;
+  margin: 1px 0 0.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6px 6.7px 6px 8.2px;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.filter-options .button-2 {
+  border-radius: 8px;
+  background: #48CC4D;
+  position: relative;
+  margin-right: 5.3px;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 12px 7.9px 12.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.filter-options .card-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 374.4px;
+}
+.filter-options .featured-collections {
+  margin: 0 118.7px 123.5px 132px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 32px;
+  width: 1188.3px;
+  box-sizing: border-box;
+}
+.filter-options .thank-you {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--gray, #F4F4F4);
+}
+.filter-options .garden-nursery-aplatform-for-your-all-gardening-needs-gardens-have-been-an-indispensable-part-of-our-homes-more-so-now-ever-than-before {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 1.5;
+  color: var(--white, #FFFFFF);
+}
+.garden-nursery-aplatform-for-your-all-gardening-needs-gardens-have-been-an-indispensable-part-of-our-homes-more-so-now-ever-than-before-sub7 {
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 1.333;
+  color: var(--yellow, #F9C000);
+}
+.filter-options .about {
+  margin: 0 145.4px 56px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.filter-options .shop-1 {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--gray, #F4F4F4);
+}
+.filter-options .all-products-new-arrivals-offers-combo-zone {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 2;
+  color: var(--white, #FFFFFF);
+}
+.filter-options .shop {
+  margin-right: 137.2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.filter-options .info-1 {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--gray, #F4F4F4);
+}
+.filter-options .about-us-company-blog {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 2;
+  color: var(--white, #FFFFFF);
+}
+.filter-options .info {
+  margin: 0 133px 32px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.filter-options .support-1 {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--gray, #F4F4F4);
+}
+.filter-options .terms-conditions-privacy-policy-cancellation-refund-policy-shopping-delivery-policy {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 2;
+  color: var(--white, #FFFFFF);
+}
+.filter-options .support {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.filter-options .footer {
+  background: var(--dark-green, #0C4741);
+  display: flex;
+  flex-direction: row;
+  padding: 80px 104.5px 69px 111.5px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.filter-options {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 1px;
+  width: 1440px;
+  box-sizing: border-box;
+}

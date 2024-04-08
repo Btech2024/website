@@ -1,0 +1,263 @@
+.login-page .chris-lee-70-l-1-tdai-6-rmunsplash-1 {
+  background: url('../assets/images/chrisLee70L1Tdai6Rmunsplash1.jpeg') 50% / cover no-repeat;
+  margin-right: 97px;
+  width: 768px;
+  height: 1024px;
+}
+.login-page .welcome-back {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 32px;
+  color: #000000;
+}
+.login-page .frame-51 {
+  margin-bottom: 5.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.login-page .enter-your-credentials-to-access-your-account {
+  margin: 0 32.8px 62.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page .name-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
+}
+.login-page .frame-521 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.login-page .name-3 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #3D3D3D;
+}
+.login-page .frame-532 {
+  border-radius: 10px;
+  border: 1px solid #D9D9D9;
+  padding: 7.5px 9px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .frame-64 {
+  margin-bottom: 25.7px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .name {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
+}
+.login-page .frame-52 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.login-page .forgot-password {
+  margin-bottom: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: var(--action-sec, #0C2A92);
+}
+.login-page .container {
+  margin-right: 4.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 399.5px;
+  box-sizing: border-box;
+}
+.login-page .name-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #424242;
+}
+.login-page .frame-53 {
+  border-radius: 10px;
+  border: 1px solid #D9D9D9;
+  padding: 7.5px 9px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .frame-55 {
+  margin-bottom: 25.5px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .rectangle-8 {
+  border-radius: 2px;
+  border: 1px solid #939393;
+  background: #2D9AFF;
+  margin: 2.2px 6px 1.8px 0;
+  width: 9px;
+  height: 10px;
+}
+.login-page .remember-for-30-days {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 9px;
+  color: #000000;
+}
+.login-page .group-3 {
+  border-radius: 2px;
+  margin-bottom: 21.4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .login {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 13px;
+  color: #FFFFFF;
+}
+.login-page .frame-56 {
+  border-radius: 10px;
+  border: 1px solid #3A5B22;
+  background: #3A5B22;
+  position: relative;
+  margin-bottom: 141.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6px 0 6px 1.9px;
+  width: 404px;
+  box-sizing: border-box;
+}
+.login-page .icons-8-google-1 {
+  margin-right: 10px;
+  width: 24px;
+  height: 24px;
+}
+.login-page .sign-in-with-google {
+  margin: 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.login-page .frame-60 {
+  border-radius: 10px;
+  border: 1px solid var(--muted, #D9D9D9);
+  margin-right: 23px;
+  display: flex;
+  flex-direction: row;
+  padding: 3px 19.7px 3px 19px;
+  box-sizing: border-box;
+}
+.login-page .vector-4 {
+  width: 19.9px;
+  height: 23px;
+}
+.login-page .icons-8-apple-logo-1 {
+  margin-right: 10.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 19.9px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.login-page .sign-in-with-apple {
+  margin: 3px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.login-page .frame-62 {
+  border-radius: 10px;
+  border: 1px solid var(--muted, #D9D9D9);
+  display: flex;
+  flex-direction: row;
+  padding: 3px 0 4px 0;
+  width: 190px;
+  box-sizing: border-box;
+}
+.login-page .frame-63 {
+  margin: 0 1px 22.8px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dont-have-an-account-sign-up {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #0F3DDE;
+}
+.login-page .dont-have-an-account-sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
+}
+.dont-have-an-account-sign-up-sub47 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.333;
+}
+.login-page .group-4 {
+  margin-left: 10.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+  box-sizing: border-box;
+}
+.login-page .frame-58 {
+  margin: 216px 0 227.2px 0;
+  display: flex;
+  flex-direction: column;
+  width: 404px;
+  box-sizing: border-box;
+}
+.login-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  width: 1440px;
+  box-sizing: border-box;
+}

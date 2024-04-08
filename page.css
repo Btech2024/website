@@ -1,0 +1,585 @@
+.page .garden-nursery {
+  margin-right: 17.5px;
+  width: 445.5px;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 0.9;
+  color: var(--yellow, #F9C000);
+}
+.garden-nursery {
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+  color: var(--green, #1C9A44);
+}
+.page .shop-3 {
+  margin-right: 8.2px;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.page .vector {
+  width: 8px;
+  height: 4px;
+}
+.page .icon-outlined-directions-chevron-down {
+  margin: 8px 0 7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 8px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.page .shop-2 {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.page .new-arrivals {
+  margin-top: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.page .offers {
+  margin-bottom: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.page .combo-zone {
+  margin-bottom: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.page .menu {
+  margin: 7.5px 0 8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 378.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page .icon-outlined-action-main-search {
+  margin-right: 16px;
+  width: 24px;
+  height: 24px;
+}
+.page .icon-outlined-other-person-user {
+  margin-right: 16px;
+  width: 24px;
+  height: 24px;
+}
+.page .icon-outlined-other-shop-shopping-cart {
+  width: 24px;
+  height: 24px;
+}
+.page .icon-menu {
+  margin: 5.5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 104px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.page .nav {
+  background: var(--white, #FFFFFF);
+  margin: 0 15px 26px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 21.5px 32px;
+  width: 1410px;
+  box-sizing: border-box;
+}
+.page .plants-your-looking-for {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 42px;
+  color: #000000;
+}
+.page .frame-51 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.page .choose-your-plant-and-add-to-cart {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.page .frame-1171275431 {
+  margin: 0 0 41px 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page .image-9 {
+  background: url('../assets/images/image9.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -121px;
+  bottom: 0px;
+  width: 403px;
+  height: 320px;
+}
+.page .mask-group {
+  position: relative;
+  width: 320px;
+  height: 320px;
+}
+.page .home-decor {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--white, #FFFFFF);
+}
+.page .content-girl {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+  color: var(--white, #FFFFFF);
+}
+.page .group-11 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.page .vector-8 {
+  width: 4px;
+  height: 8px;
+}
+.page .icon-outlined-directions-chevron-right {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 4px;
+  height: 8px;
+  box-sizing: border-box;
+}
+.page .group-10 {
+  border-radius: 12px;
+  background: #F9C000;
+  position: relative;
+  margin: 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 9px 8px 11px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.page .container {
+  background: #1C9A44;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px;
+  width: 320px;
+  box-sizing: border-box;
+}
+.page .product-1-active {
+  box-shadow: 4px 4px 16px 0px rgba(0, 0, 0, 0.06);
+  background: #F4F4F4;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 320px;
+  box-sizing: border-box;
+}
+.page .image-7 {
+  background: url('../assets/images/image7.png') 45% / cover no-repeat;
+  position: absolute;
+  left: -80px;
+  bottom: -100px;
+  width: 380px;
+  height: 420px;
+}
+.page .mask-group-1 {
+  position: relative;
+  width: 320px;
+  height: 320px;
+}
+.page .live-plants {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--dark-gray, #ABABAB);
+}
+.page .peace-lily {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+  color: var(--black, #373737);
+}
+.page .container-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.page .vector-9 {
+  width: 4px;
+  height: 8px;
+}
+.page .icon-outlined-directions-chevron-right-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 4px;
+  height: 8px;
+  box-sizing: border-box;
+}
+.page .left-arrow {
+  position: relative;
+  margin: 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 9px 8px 11px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.page .container-5 {
+  background: #F4F4F4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px;
+  width: 320px;
+  box-sizing: border-box;
+}
+.page .product-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 320px;
+  box-sizing: border-box;
+}
+.page .image-11 {
+  background: url('../assets/images/image11.png') 50% / cover no-repeat;
+  position: absolute;
+  top: -10px;
+  right: -30px;
+  width: 400px;
+  height: 420px;
+}
+.page .mask-group-2 {
+  position: relative;
+  width: 320px;
+  height: 320px;
+}
+.page .plastic-pots {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--dark-gray, #ABABAB);
+}
+.page .onyx-wood {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+  color: var(--black, #373737);
+}
+.page .container-3 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.page .vector-10 {
+  width: 4px;
+  height: 8px;
+}
+.page .icon-outlined-directions-chevron-right-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 4px;
+  height: 8px;
+  box-sizing: border-box;
+}
+.page .left-arrow-1 {
+  position: relative;
+  margin: 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 9px 8px 11px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.page .container-4 {
+  background: #F4F4F4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px;
+  width: 320px;
+  box-sizing: border-box;
+}
+.page .product-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 320px;
+  box-sizing: border-box;
+}
+.page .image-12 {
+  background: url('../assets/images/image12.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -10px;
+  bottom: -50px;
+  width: 400px;
+  height: 380px;
+}
+.page .mask-group-3 {
+  position: relative;
+  width: 320px;
+  height: 320px;
+}
+.page .garden-decor {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--dark-gray, #ABABAB);
+}
+.page .buddha-head-pot {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+  color: var(--black, #373737);
+}
+.page .container-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.page .vector-11 {
+  width: 4px;
+  height: 8px;
+}
+.page .icon-outlined-directions-chevron-right-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 4px;
+  height: 8px;
+  box-sizing: border-box;
+}
+.page .left-arrow-2 {
+  position: relative;
+  margin: 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 9px 8px 11px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.page .product-41 {
+  background: #F4F4F4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px;
+  width: 320px;
+  box-sizing: border-box;
+}
+.page .product-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 320px;
+  box-sizing: border-box;
+}
+.page .featured-products {
+  margin: 0 17px 50px 47px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 32px;
+  width: 1376px;
+  box-sizing: border-box;
+}
+.page .thank-you {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--gray, #F4F4F4);
+}
+.garden-nursery-aplatform-for-your-all-gardening-needs-gardens-have-been-an-indispensable-part-of-our-homes-more-so-now-ever-than-before-sub7 {
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 1.333;
+  color: var(--yellow, #F9C000);
+}
+.page .garden-nursery-aplatform-for-your-all-gardening-needs-gardens-have-been-an-indispensable-part-of-our-homes-more-so-now-ever-than-before {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 1.5;
+  color: var(--white, #FFFFFF);
+}
+.page .about {
+  margin: 0 145.4px 56px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.page .shop-1 {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--gray, #F4F4F4);
+}
+.page .all-products-new-arrivals-offers-combo-zone {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 2;
+  color: var(--white, #FFFFFF);
+}
+.page .shop {
+  margin-right: 137.2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.page .info-1 {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--gray, #F4F4F4);
+}
+.page .about-us-company-blog {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 2;
+  color: var(--white, #FFFFFF);
+}
+.page .info {
+  margin: 0 133px 32px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.page .support-1 {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--gray, #F4F4F4);
+}
+.page .terms-conditions-privacy-policy-cancellation-refund-policy-shopping-delivery-policy {
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.6px;
+  line-height: 2;
+  color: var(--white, #FFFFFF);
+}
+.page .support {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.page .footer {
+  background: var(--dark-green, #0C4741);
+  display: flex;
+  flex-direction: row;
+  padding: 80px 104.5px 69px 111.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,261 @@
+.email-verification .garden-nursery {
+  margin-right: 17.5px;
+  width: 445.5px;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 0.9;
+  color: var(--yellow, #F9C000);
+}
+.garden-nursery {
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+  color: var(--green, #1C9A44);
+}
+.email-verification .shop-1 {
+  margin-right: 8.2px;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.email-verification .vector {
+  width: 8px;
+  height: 4px;
+}
+.email-verification .icon-outlined-directions-chevron-down {
+  margin: 8px 0 7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 8px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.email-verification .shop {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.email-verification .new-arrivals {
+  margin-top: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.email-verification .offers {
+  margin-bottom: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.email-verification .combo-zone {
+  margin-bottom: 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Work Sans';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black, #373737);
+}
+.email-verification .menu {
+  margin: 7.5px 0 8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 378.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.email-verification .icon-outlined-action-main-search {
+  margin-right: 16px;
+  width: 24px;
+  height: 24px;
+}
+.email-verification .icon-outlined-other-person-user {
+  margin-right: 16px;
+  width: 24px;
+  height: 24px;
+}
+.email-verification .icon-outlined-other-shop-shopping-cart {
+  width: 24px;
+  height: 24px;
+}
+.email-verification .icon-menu {
+  margin: 5.5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 104px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.email-verification .nav {
+  background: var(--white, #FFFFFF);
+  margin-bottom: 68px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 21.5px 32px;
+  width: 1410px;
+  box-sizing: border-box;
+}
+.email-verification .please-verify-your-email {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 42px;
+  color: #000000;
+}
+.email-verification .frame-51 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.email-verification .check-you-mail-id {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.email-verification .frame-1171275431 {
+  margin-bottom: 47.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.email-verification .asset-2-x-81 {
+  background: url('../assets/images/asset2X81.png');
+  position: relative;
+  width: 251px;
+  height: 282px;
+}
+.email-verification .vector-8 {
+  width: 92.5px;
+  height: 92.5px;
+}
+.email-verification .check-circle {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 92.5px;
+  height: 92.5px;
+  box-sizing: border-box;
+}
+.email-verification .group-6848 {
+  position: relative;
+  margin: 0 9.2px 36px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 35.8px 20.8px 0 0;
+  width: 271.8px;
+  height: 317.8px;
+  box-sizing: border-box;
+}
+.email-verification .we-have-sent-confirmation-email-to-accountexample-com {
+  margin: 0 10.8px 18px 10.8px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 28.8px;
+  color: rgba(20, 20, 20, 0.85);
+}
+.email-verification .lorem-ipsum-dolor-sit-amet-consectetur-ac-ullamcorper-donec-est-gravida-tristique-sed-aliquet-egestas-dolor-dui-molestie-elit-neque-ante-urna-proin-nisi-mattis-ultricies-laoreet-vitae-sapien-et-mauris-viverra-porta-consectetur-sed-help-centre {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 15.8px;
+  color: rgba(63, 62, 62, 0.8);
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-ac-ullamcorper-donec-est-gravida-tristique-sed-aliquet-egestas-dolor-dui-molestie-elit-neque-ante-urna-proin-nisi-mattis-ultricies-laoreet-vitae-sapien-et-mauris-viverra-porta-consectetur-sed-help-centre {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 15.8px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #29832D;
+}
+.email-verification .frame-1171275432 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.email-verification .frame-53 {
+  border-radius: 10px;
+  border: 1px solid #3A5B22;
+  background: #3A5B22;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 404px;
+  height: 32px;
+}
+.email-verification .login {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 13px;
+  color: #FFFFFF;
+}
+.email-verification .frame-56 {
+  background: var(--edf-2-f-7, #EDF2F7);
+  position: relative;
+  margin: 0 47.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6px 0 9px 0.5px;
+  width: 404px;
+  box-sizing: border-box;
+}
+.email-verification .frame-1171275433 {
+  margin: 0 2.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.email-verification .frame-1171275434 {
+  margin-right: 0.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.email-verification {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 15px 105.4px 15px;
+  width: 1440px;
+  box-sizing: border-box;
+}
